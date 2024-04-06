@@ -15,7 +15,7 @@ Visitors (Since 2024/04/04)<br>
 - Back-End (a bit Front-End)
 - Gamer
 - Music
-- I'm a T1Con 🌸
+- T1 Con forever!!! 🌸
 
 <br>
 <br>
