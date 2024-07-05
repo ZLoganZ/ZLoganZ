@@ -7,6 +7,8 @@ Visitors (Since 2024/04/04)<br>
 <img src="https://moe-counter.glitch.me/get/@ZLoganZ?theme=moebooru-h" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 **About me**
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZLoganZ&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" />
 
