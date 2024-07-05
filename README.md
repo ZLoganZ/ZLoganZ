@@ -10,7 +10,7 @@ Visitors (Since 2024/04/04)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZLoganZ&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 **About me**
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZLoganZ&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZLoganZ&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000" />
 
 - Student
 - Introverted
