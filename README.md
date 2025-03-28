@@ -23,7 +23,7 @@ Visitors (Since 2024/04/04)<br>
 <br>
 
 **Contact me**
-<img align="right" src="https://lanyard.kyrie25.me/api/422753913704546306?useDisplayName=true&gradient=ffb3eb-ffc4f2-ffd5f8-ffe6ff" />
+<img align="right" src="https://lanyard.kyrie25.dev/api/422753913704546306?useDisplayName=true&gradient=ffb3eb-ffc4f2-ffd5f8-ffe6ff" />
 
 - Discord
 - 📧 [ln26805@gmail.com](mailto:ln26805@gmail.com)
