@@ -23,6 +23,5 @@ Visitors (Since 2024/04/04)<br>
 **Contact me**
 <img align="right" src="https://lanyard.kyrie25.dev/api/422753913704546306?useDisplayName=true&gradient=ffb3eb-ffc4f2-ffd5f8-ffe6ff" />
 
-- Discord
+- Discord [._.hoanghai]
 - 📧 [ln26805@gmail.com](mailto:ln26805@gmail.com)
-- Facebook (If you can find)
